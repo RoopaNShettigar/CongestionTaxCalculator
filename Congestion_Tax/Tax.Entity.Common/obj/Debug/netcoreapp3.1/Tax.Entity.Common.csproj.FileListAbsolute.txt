@@ -1,0 +1,9 @@
+C:\TaxCalculator\Congestion_Tax\Tax.Entity.Common\bin\Debug\netcoreapp3.1\Tax.Entity.Common.deps.json
+C:\TaxCalculator\Congestion_Tax\Tax.Entity.Common\bin\Debug\netcoreapp3.1\Tax.Entity.Common.dll
+C:\TaxCalculator\Congestion_Tax\Tax.Entity.Common\bin\Debug\netcoreapp3.1\Tax.Entity.Common.pdb
+C:\TaxCalculator\Congestion_Tax\Tax.Entity.Common\obj\Debug\netcoreapp3.1\Tax.Entity.Common.csprojAssemblyReference.cache
+C:\TaxCalculator\Congestion_Tax\Tax.Entity.Common\obj\Debug\netcoreapp3.1\Tax.Entity.Common.AssemblyInfoInputs.cache
+C:\TaxCalculator\Congestion_Tax\Tax.Entity.Common\obj\Debug\netcoreapp3.1\Tax.Entity.Common.AssemblyInfo.cs
+C:\TaxCalculator\Congestion_Tax\Tax.Entity.Common\obj\Debug\netcoreapp3.1\Tax.Entity.Common.csproj.CoreCompileInputs.cache
+C:\TaxCalculator\Congestion_Tax\Tax.Entity.Common\obj\Debug\netcoreapp3.1\Tax.Entity.Common.dll
+C:\TaxCalculator\Congestion_Tax\Tax.Entity.Common\obj\Debug\netcoreapp3.1\Tax.Entity.Common.pdb

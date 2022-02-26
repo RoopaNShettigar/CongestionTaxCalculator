@@ -1,0 +1,12 @@
+C:\TaxCalculator\Congestion_Tax\Tax.Rules.Engine\bin\Debug\netcoreapp3.1\Tax.Rules.Engine.deps.json
+C:\TaxCalculator\Congestion_Tax\Tax.Rules.Engine\bin\Debug\netcoreapp3.1\Tax.Rules.Engine.dll
+C:\TaxCalculator\Congestion_Tax\Tax.Rules.Engine\bin\Debug\netcoreapp3.1\Tax.Rules.Engine.pdb
+C:\TaxCalculator\Congestion_Tax\Tax.Rules.Engine\bin\Debug\netcoreapp3.1\Tax.Entity.Common.dll
+C:\TaxCalculator\Congestion_Tax\Tax.Rules.Engine\bin\Debug\netcoreapp3.1\Tax.Entity.Common.pdb
+C:\TaxCalculator\Congestion_Tax\Tax.Rules.Engine\obj\Debug\netcoreapp3.1\Tax.Rules.Engine.csprojAssemblyReference.cache
+C:\TaxCalculator\Congestion_Tax\Tax.Rules.Engine\obj\Debug\netcoreapp3.1\Tax.Rules.Engine.AssemblyInfoInputs.cache
+C:\TaxCalculator\Congestion_Tax\Tax.Rules.Engine\obj\Debug\netcoreapp3.1\Tax.Rules.Engine.AssemblyInfo.cs
+C:\TaxCalculator\Congestion_Tax\Tax.Rules.Engine\obj\Debug\netcoreapp3.1\Tax.Rules.Engine.csproj.CoreCompileInputs.cache
+C:\TaxCalculator\Congestion_Tax\Tax.Rules.Engine\obj\Debug\netcoreapp3.1\Tax.Rules.Engine.csproj.CopyComplete
+C:\TaxCalculator\Congestion_Tax\Tax.Rules.Engine\obj\Debug\netcoreapp3.1\Tax.Rules.Engine.dll
+C:\TaxCalculator\Congestion_Tax\Tax.Rules.Engine\obj\Debug\netcoreapp3.1\Tax.Rules.Engine.pdb

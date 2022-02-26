@@ -1,0 +1,202 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\TaxCalculator\\Congestion_Tax\\Tax.Calculator.Helper\\Tax.Calculator.Helper.csproj": {}
+  },
+  "projects": {
+    "C:\\TaxCalculator\\Congestion_Tax\\Tax.Calculator.Helper\\Tax.Calculator.Helper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\TaxCalculator\\Congestion_Tax\\Tax.Calculator.Helper\\Tax.Calculator.Helper.csproj",
+        "projectName": "Tax.Calculator.Helper",
+        "projectPath": "C:\\TaxCalculator\\Congestion_Tax\\Tax.Calculator.Helper\\Tax.Calculator.Helper.csproj",
+        "packagesPath": "C:\\Users\\ic018673\\.nuget\\packages\\",
+        "outputPath": "C:\\TaxCalculator\\Congestion_Tax\\Tax.Calculator.Helper\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ic018673\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\ic018673\\.nuget\\packages\\syngo.sharesdk.grpc": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://apollo.healthcare.siemens.com/tfs/IKM.TPC.Projects/_packaging/syngo-Extern/nuget/v3/index.json": {},
+          "https://apollo.healthcare.siemens.com/tfs/IKM.TPC.Projects/_packaging/syngoOne-Services-Falcon/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\TaxCalculator\\Congestion_Tax\\Tax.Rules.Engine\\Tax.Rules.Engine.csproj": {
+                "projectPath": "C:\\TaxCalculator\\Congestion_Tax\\Tax.Rules.Engine\\Tax.Rules.Engine.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\TaxCalculator\\Congestion_Tax\\Tax.Entity.Common\\Tax.Entity.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\TaxCalculator\\Congestion_Tax\\Tax.Entity.Common\\Tax.Entity.Common.csproj",
+        "projectName": "Tax.Entity.Common",
+        "projectPath": "C:\\TaxCalculator\\Congestion_Tax\\Tax.Entity.Common\\Tax.Entity.Common.csproj",
+        "packagesPath": "C:\\Users\\ic018673\\.nuget\\packages\\",
+        "outputPath": "C:\\TaxCalculator\\Congestion_Tax\\Tax.Entity.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ic018673\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\ic018673\\.nuget\\packages\\syngo.sharesdk.grpc": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://apollo.healthcare.siemens.com/tfs/IKM.TPC.Projects/_packaging/syngo-Extern/nuget/v3/index.json": {},
+          "https://apollo.healthcare.siemens.com/tfs/IKM.TPC.Projects/_packaging/syngoOne-Services-Falcon/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\TaxCalculator\\Congestion_Tax\\Tax.Rules.Engine\\Tax.Rules.Engine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\TaxCalculator\\Congestion_Tax\\Tax.Rules.Engine\\Tax.Rules.Engine.csproj",
+        "projectName": "Tax.Rules.Engine",
+        "projectPath": "C:\\TaxCalculator\\Congestion_Tax\\Tax.Rules.Engine\\Tax.Rules.Engine.csproj",
+        "packagesPath": "C:\\Users\\ic018673\\.nuget\\packages\\",
+        "outputPath": "C:\\TaxCalculator\\Congestion_Tax\\Tax.Rules.Engine\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ic018673\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\ic018673\\.nuget\\packages\\syngo.sharesdk.grpc": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://apollo.healthcare.siemens.com/tfs/IKM.TPC.Projects/_packaging/syngo-Extern/nuget/v3/index.json": {},
+          "https://apollo.healthcare.siemens.com/tfs/IKM.TPC.Projects/_packaging/syngoOne-Services-Falcon/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\TaxCalculator\\Congestion_Tax\\Tax.Entity.Common\\Tax.Entity.Common.csproj": {
+                "projectPath": "C:\\TaxCalculator\\Congestion_Tax\\Tax.Entity.Common\\Tax.Entity.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "EPPlus": {
+              "target": "Package",
+              "version": "[5.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
